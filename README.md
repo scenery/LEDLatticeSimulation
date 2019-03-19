@@ -5,6 +5,7 @@ A led lattice display program with Qt5
 Written in Mar,2019
 ### Version 1.0
 <div align=center>
+Linux下交叉编译后在CES-EDU4412 教学平台运行效果：
 <img width="1024" height="636" src="https://github.com/hazyao/LEDLatticeSimulation/raw/master/demo.jpg"/>
 </div>
 </br>
